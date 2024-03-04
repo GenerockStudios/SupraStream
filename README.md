@@ -11,6 +11,11 @@ $ docker build
 ## Utilization
 
 ## Documentation
+- The backend project is divided in 4 microservices
+    - Users
+    - Videos
+    - Stream
+    - Payment (For access premium version)
 
 ## Contact me
 
