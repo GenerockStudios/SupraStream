@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Users.API", "SupraStream.Users.API\SupraStream.Users.API.csproj", "{89665A4E-6257-415E-B1BF-6EB4C379227B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Users.Domain", "SupraStream.Users.Domain\SupraStream.Users.Domain.csproj", "{5E878235-7E0A-480F-A0DA-A12EC4A16EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Users.Application", "SupraStream.Users.Application\SupraStream.Users.Application.csproj", "{71E36557-C92F-4043-910F-BCEC796BD78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Users.Infrastructure", "SupraStream.Users.Infrastructure\SupraStream.Users.Infrastructure.csproj", "{64701FFC-07D0-47AC-BC8F-C0A68B4A8A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Users.Tests", "SupraStream.Users.Tests\SupraStream.Users.Tests.csproj", "{2F4B600C-BFBD-40FD-85E8-C67A5124785C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89665A4E-6257-415E-B1BF-6EB4C379227B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89665A4E-6257-415E-B1BF-6EB4C379227B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89665A4E-6257-415E-B1BF-6EB4C379227B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89665A4E-6257-415E-B1BF-6EB4C379227B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E878235-7E0A-480F-A0DA-A12EC4A16EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E878235-7E0A-480F-A0DA-A12EC4A16EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E878235-7E0A-480F-A0DA-A12EC4A16EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E878235-7E0A-480F-A0DA-A12EC4A16EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E36557-C92F-4043-910F-BCEC796BD78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E36557-C92F-4043-910F-BCEC796BD78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E36557-C92F-4043-910F-BCEC796BD78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E36557-C92F-4043-910F-BCEC796BD78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64701FFC-07D0-47AC-BC8F-C0A68B4A8A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64701FFC-07D0-47AC-BC8F-C0A68B4A8A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64701FFC-07D0-47AC-BC8F-C0A68B4A8A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64701FFC-07D0-47AC-BC8F-C0A68B4A8A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4B600C-BFBD-40FD-85E8-C67A5124785C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4B600C-BFBD-40FD-85E8-C67A5124785C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4B600C-BFBD-40FD-85E8-C67A5124785C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4B600C-BFBD-40FD-85E8-C67A5124785C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5928E4EF-7E03-4113-8BCA-6DDB8D2FEC49}
+	EndGlobalSection
+EndGlobal

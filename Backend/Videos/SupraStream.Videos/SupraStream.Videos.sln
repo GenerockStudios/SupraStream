@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Videos.API", "SupraStream.Videos.API\SupraStream.Videos.API.csproj", "{FC0AA9DA-6E70-4E31-B3F7-6675B5ABFEBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Videos.Domain", "SupraStream.Videos.Domain\SupraStream.Videos.Domain.csproj", "{8D4F1AEF-37F2-47F3-BD68-D668937C4E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Videos.Application", "SupraStream.Videos.Application\SupraStream.Videos.Application.csproj", "{E6C33F36-0D19-4F09-B290-3810A34EFBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Videos.Infrastructure", "SupraStream.Videos.Infrastructure\SupraStream.Videos.Infrastructure.csproj", "{C70C0E82-5D11-468A-B6B4-E15A99BF2498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupraStream.Videos.Tests", "SupraStream.Videos.Tests\SupraStream.Videos.Tests.csproj", "{192206AA-FB05-4CCF-B1CB-E10F940B9DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0AA9DA-6E70-4E31-B3F7-6675B5ABFEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0AA9DA-6E70-4E31-B3F7-6675B5ABFEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0AA9DA-6E70-4E31-B3F7-6675B5ABFEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0AA9DA-6E70-4E31-B3F7-6675B5ABFEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4F1AEF-37F2-47F3-BD68-D668937C4E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4F1AEF-37F2-47F3-BD68-D668937C4E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4F1AEF-37F2-47F3-BD68-D668937C4E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4F1AEF-37F2-47F3-BD68-D668937C4E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C33F36-0D19-4F09-B290-3810A34EFBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C33F36-0D19-4F09-B290-3810A34EFBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C33F36-0D19-4F09-B290-3810A34EFBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C33F36-0D19-4F09-B290-3810A34EFBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70C0E82-5D11-468A-B6B4-E15A99BF2498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70C0E82-5D11-468A-B6B4-E15A99BF2498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70C0E82-5D11-468A-B6B4-E15A99BF2498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70C0E82-5D11-468A-B6B4-E15A99BF2498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192206AA-FB05-4CCF-B1CB-E10F940B9DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192206AA-FB05-4CCF-B1CB-E10F940B9DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192206AA-FB05-4CCF-B1CB-E10F940B9DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192206AA-FB05-4CCF-B1CB-E10F940B9DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF6543CF-5214-44CC-B1D2-3B3754703714}
+	EndGlobalSection
+EndGlobal

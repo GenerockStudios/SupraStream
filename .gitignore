@@ -125,3 +125,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+*.vsidx
+*.bin
+*.v2
+Backend/Payment/SupraStream.Payment/.vs/SupraStream.Payment/v17/.suo
+*.cache
+DeployCmd/.vs/DeployCmd/v17/.suo
+Backend/Users/SupraStream.Users/.vs/SupraStream.Users/v17/.suo
+Backend/Stream/SupraStream.Stream/.vs/SupraStream.Stream/v17/.suo
