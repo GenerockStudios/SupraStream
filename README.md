@@ -16,6 +16,7 @@ $ docker build
     - Videos
     - Stream
     - Payment (For access premium version)
+- Frontend usign React js and Next js for SSR
 
 ## Contact me
 
