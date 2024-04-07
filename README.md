@@ -6,6 +6,8 @@ This project is a big streaming platform, for my portfolio. This project uses Mi
 
 $ git clone https://github.com/GenerockStudios/SupraStream
 
+$ cd ./SupraStream/SupraStream/Backend
+
 $ docker build
 
 ## Utilization
