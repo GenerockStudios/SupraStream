@@ -6,6 +6,9 @@ namespace SupraStream.Videos.Tests
         public void Test1()
         {
           Console.WriteLine("First tests");
+Console.WriteLine("First tests");
+Console.WriteLine("First tests");
+Console.WriteLine("First tests");
         }
     }
 }
