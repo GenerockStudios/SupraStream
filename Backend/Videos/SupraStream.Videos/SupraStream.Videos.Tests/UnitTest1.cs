@@ -5,7 +5,7 @@ namespace SupraStream.Videos.Tests
         [Fact]
         public void Test1()
         {
-
+          Console.WriteLine("First tests");
         }
     }
 }
